@@ -1,0 +1,189 @@
+#Simple Equation
+
+1+1
+
+#Gives all the numbers 100 through 130
+
+100:130
+
+#R will display a + if command is not finished. Escape starts over
+
+5 -
+  
+  1
+
+#Error Example
+
+3 % 5
+
+#Simple Calculations
+
+2 * 3
+4-1
+6/(4-1)
+
+#Exercise
+
+(((4 + 2) * 3) - 6) / 3
+
+#Vector - One Demensional set of numbers
+
+1:6
+
+#Creating an object
+
+a <- 1
+a
+a+2
+
+die <- 1:6
+die
+
+Name <- 1
+name <- 0
+
+Name + 1
+
+my_number <- 1
+my_number
+
+my_number <- 999
+my_number
+
+#How to see previosuly used object (variable) names
+
+ls()
+
+#Manipulating Sets of variables
+
+die - 1
+die / 2
+die * die
+
+#Vector recycling
+
+1:2
+1:4
+
+die
+
+die + 1:2
+
+die + 1:4
+
+#Inner multiplication
+
+die %*% die
+
+#Outer Multiplication
+
+die %o% die
+
+#Functions
+
+round(3.1415)
+
+Factorial(3)
+
+mean(1:6)
+
+mean(die)
+
+round(mean(die))
+
+sample(x = 1:4, size = 2)
+
+sample(x - die, size = 1)
+
+sample(x - die, size = 1)
+
+sample(x - die, size = 1)
+
+sample(die , size = 1)
+
+#Lookup function arguements
+
+args(round)
+
+#Error
+round(3.1415, corners = 2)
+
+#Correct
+
+round(3.1415, digits = 2)
+
+sample(die, 1)
+
+#Always type argument name because R defualts to argument name otherwise values typed in the wrong order can be incorrect
+
+sample(size = 1, x = die)
+
+#The first and second number will never be the same
+
+sample(die, size = 2)
+
+#Allows first and second number to be the same
+
+sample(die, size = 2, replace = TRUE)
+
+dice <- sample(die, size = 2, replace = TRUE)
+dice
+
+sum(dice)
+
+dice
+
+dice
+
+dice
+
+#Creating a function
+
+roll <- function() {
+  die <- 1:6
+  dice <- sample(die, size = 2, replace = TRUE)
+  sum(dice)
+}
+
+roll()
+
+roll
+
+#Function to display code
+displayCodeFunction <- function() {
+  dice
+  1 + 1
+  sqrt(2)
+}
+
+#Function not displaying code
+
+noDisplayCodeFunction <- function() {
+  dice <- sample(die, size = 2, replace = TRUE)
+  two <- 1+1
+  a <- sqrt(2)
+}
+
+#Creating arguments
+
+roll2 <- function() {
+  dice <- sample(bones, size = 2 replace = TRUE)
+  sum(dice)
+}
+
+roll2 <- function(bones){
+  dice <- sample(bones, size = 2, replace TRUE)
+  sum(dice)
+}
+
+roll2(bones = 1:4)
+roll2(bones = 1:6)
+roll2(1:20)
+roll2()
+
+roll2 <- function(bones = 1:6) {
+  dice <- sample(bones, size = 2, replace = TRUE)
+  sim(dice)
+}
+
+roll2()
