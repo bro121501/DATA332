@@ -1,4 +1,8 @@
 Graphs from student_data.R
+
+<div style="background-color: white; padding: 10px; border-radius: 5px; display: inline-block;">
+     ![Count of the Number of Majors](https://github.com/bro121501/DATA332/blob/Student-data/Count%20of%20Majors.png)
+</div>
 <div style="background-color: white; padding: 10px; border-radius: 5px;">
     ![Count of the Number of Majors](https://github.com/bro121501/DATA332/blob/Student-data/Count%20of%20Majors.png)
 </div>
