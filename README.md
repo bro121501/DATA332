@@ -1,6 +1,6 @@
 Graphs from student_data.R
 
-
+Github is automatically resizing my images. To see full unedited graphs go to https://drive.google.com/drive/folders/1_YPSNCUzM0UuccXcNRij-lF3faZXqnHP?usp=drive_link
 
 ![Count of the Number of Majors](https://github.com/bro121501/DATA332/blob/Student-data/Count%20of%20Majors.png)
 
