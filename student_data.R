@@ -98,7 +98,7 @@ data_melted$variable[data_melted$variable == "Segment2"] <- "Payment Plan"
   theme_minimal()
 plot}
 
-ggsave("H:\\Desktop Folder\\R Shit\\Student\\Graphs\\Cost per Major.png", plot, width = 6, height = 4, dpi = 300)
+ggsave("H:\\Desktop Folder\\R Shit\\Student\\Graphs\\Cost per Major.png", plot, width = 8, height = 4, dpi = 300)
 
 balance_due_per_major <- joined_data %>%
   group_by(Payment.Plan, Title) %>%
@@ -128,4 +128,4 @@ data_melted$variable[data_melted$variable == "Segment2"] <- "Payment Plan"
   scale_y_continuous(labels = function(x) format(x, scientific = FALSE)) +
   theme_minimal()
 plot}
-ggsave("H:\\Desktop Folder\\R Shit\\Student\\Graphs\\Balance per major.png", plot, width = 6, height = 4, dpi = 300)
+ggsave("H:\\Desktop Folder\\R Shit\\Student\\Graphs\\Balance per major.png", plot, width = 8, height = 4, dpi = 300)
