@@ -1,0 +1,129 @@
+Kevin Akins
+Blake Oliver
+Arnav Shrestha
+			Car Collecting Research Comparison 
+
+During our data collection, we collected data from three different days at three different times. Our days and times were Saturday at 6 pm, Tuesday at 5 pm, and Wednesday at 3 pm. We documented about 150 cars. We organized our time via text messages.
+ 
+Our data was originally collected as a Google Sheets file. During our data collection, we noted that most cars did slow down. From our data the sign is successful. This is combined with the notion that going five miles per hour over the limit would 
+not warrant an arrest or speeding ticket from police officers. This slows drivers to a speed that is considered acceptable by law enforcement. The data we collected shows we recorded a maximum of forty-eight and a minimum of twenty-two miles per hour. 
+The average speed was thirty-three miles per hour as well as the median from our data. When juxtaposing the weekdays to the weekend we found that most cars are traveling faster. The mode and the median increased on Saturday. We saw an increase of 
+half a mile per hour in the median and two miles per hour increase in the mode. The averages were the same for both, but This is likely due to outliers during the weekdays. After drawing conclusions from our data, we then compared them with other 
+studies and research. 
+
+Our findings when compared to other studies were similar. The study Effects of speed feedback signs and Law Enforcement on driver speed took note of the weekends versus weekdays similar to our research. They concluded in their research that there 
+was very little difference between weekdays versus weekends. However, they did conclude that radar signs have a positive impact on the majority of drivers. Passenger cars and truck drivers both reduced their speed when they noticed a radar speed 
+sign. When looking at two more studies we see that radar signs serve their intended purpose. Using textual evidence from Effectiveness of Radar Speed Signs in a University Environment  “The findings suggest with 99 percent significance that 
+drivers traveling above the speed limit reduced their speed by a mean of 1.19 mph”  (Williamson et al, 2015, pg 46). Examining tables and charts provided in the research done in Evaluation of different types of dynamic speed display signs we 
+found that in some lanes of traffic, the average speed lowered by about 1.4 miles per hour. Most of the data concluded from the research agree with our findings as well. However, there are parts of the study that do not support our results. 
+	
+The biggest piece of evidence against the idea that radars are beneficial comes from the University area study. Effectiveness of Radar Speed Signs in a University Environment documents at times that speed radars sometimes have the opposite 
+effect on drivers. 
+“When the group of vehicles traveling below the posted speed limit was tested, an unexpected result was identified. The results suggest that drivers increased their speed after viewing the radar speed sign display” (Williamson et al, 2015, pg 46). 
+This result contradicts our findings. In our findings, we found that drivers would either lower or maintain their speed if they were already obeying the speed limit. We believe the cause for this is the difference in location. They measured 
+data near a school zone with a drastic speed change, whereas we recorded data near a residential area without a speed change. 
+
+The results from each finding promote the idea that most people will slow down. In each example, there is a varying degree of how much people will slow down. The variance is impacted by multiple different factors. These factors play a huge role in 
+how traffic flows. Despite these factors, research shows that it is beneficial to have radar speed limit signs. 
+
+
+Citations
+
+Gehlert, T., Schulze, C., & Schlag, B. (2012). Evaluation of different types of dynamic speed display signs. Transportation Research. Part F, Traffic Psychology and Behaviour, 15(6), 667–675. https://doi.org/10.1016/j.trf.2012.07.004
+
+Karimpour, A., Kluger, R., Liu, C., & Wu, Y. (2021). Effects of speed feedback signs and law enforcement on driver speed. Transportation Research. Part F, Traffic Psychology and Behaviour, 77, 55–72. https://doi.org/10.1016/j.trf.2020.11.011
+
+Williamson, M., Fries, R., & Zhou, H. (2016). Long-Term effectiveness of radar speed display signs in a university environment. Journal of Transportation Technologies, 06(03), 99–105. https://doi.org/10.4236/jtts.2016.63009
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
