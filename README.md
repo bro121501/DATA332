@@ -316,7 +316,7 @@ shinyApp(ui = ui, server = server)
 
 3. Scatter Plot of Temperature vs Speed
    <div align = "center">
-   <img src = "" width = "700")>
+   <img src = "https://github.com/bro121501/DATA332/blob/Counting-Cars-All-Data/Speed.png" width = "700")>
    </div>
 
 4. Scatter Plot of Temperature vs Speed with Linear Regression
